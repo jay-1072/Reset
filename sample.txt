@@ -1,1 +1,2 @@
 1. added email and password login
+2. added remember me checkbox
